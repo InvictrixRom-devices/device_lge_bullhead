@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "InvictusRom-devices/vendor_lge",
+    "target_path": "vendor/lge",
+    "branch": "8.0"
+  },
+  {
+    "repository": "jollaman999/jolla-kernel_bullhead",
+    "target_path": "kernel/lge/bullhead"
+    "branch": "android-8.0.0"
+  }
+]
